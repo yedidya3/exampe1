@@ -33,3 +33,6 @@
 
 # CMake auto grnerated files
 build/ 
+
+#.vscode
+.vscode/
