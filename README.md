@@ -1,2 +1,2 @@
-#Example WSL
+# Example WSL
 A smallprogram 
